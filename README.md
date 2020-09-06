@@ -18,6 +18,7 @@ pkg install git
 pkg install wget
 pkg install php
 git clone https://github.com/CodingBuster/saycheese
+ls
 cd saycheese
 ls
 chmod +x saycheese.sh
